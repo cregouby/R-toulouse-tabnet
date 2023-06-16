@@ -21,7 +21,7 @@ Ce dépot héberge le matériel présenté lors du groupe d'utilisateurs de R-to
  [mlverse.shinyapps.io/torch-tour](mlverse.shinyapps.io/torch-tour)  
  
  - la cheatsheet de torch  
- [torch cheatsheet](https://raw.githubusercontent.com/cregouby/torch_cheatsheet/master/pdf/torch.pdf)  
+ [torch cheatsheet](https://github.com/rstudio/cheatsheets/blob/018327edcfbdf82fad39a4536f0710b2229fcf39/translations/french/torch_fr.pdf)  
 </p>
 </details>
  
@@ -45,7 +45,7 @@ This repo host material used to present at R-belgium on 3rd february 2021
  [mlverse.shinyapps.io/torch-tour](mlverse.shinyapps.io/torch-tour)  
  
  - torch cheatsheet  
- [torch cheatsheet](https://raw.githubusercontent.com/cregouby/torch_cheatsheet/master/pdf/torch.pdf)  
+ [torch cheatsheet](https://github.com/rstudio/cheatsheets/blob/main/torch.pdf)  
 
 </p>
 </details>
