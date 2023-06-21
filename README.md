@@ -23,7 +23,7 @@ Groupe d'utilisateurs de R-toulouse du 20 octobre 21 : [Presentation pdf](Torch_
  [mlverse.github.io/tabnet](https://mlverse.github.io/tabnet/)  
  
  - le tutoriel learnr de découverte de torch  
- [mlverse.shinyapps.io/torch-tour](mlverse.shinyapps.io/torch-tour)  
+ [mlverse.shinyapps.io/torch-tour](https://mlverse.shinyapps.io/torch-tour)  
  
  - la cheatsheet de torch  
  [torch cheatsheet](https://github.com/rstudio/cheatsheets/blob/018327edcfbdf82fad39a4536f0710b2229fcf39/translations/french/torch_fr.pdf)  
@@ -32,7 +32,7 @@ Groupe d'utilisateurs de R-toulouse du 20 octobre 21 : [Presentation pdf](Torch_
  
 <details><summary>English</summary>
 <p>
-This repo host material used to present at R-belgium on 3rd february 2021
+This repo host material used to present at R-belgium on february 3rd, 2022
 
 ## The slides
 
@@ -47,7 +47,7 @@ This repo host material used to present at R-belgium on 3rd february 2021
  [mlverse.github.io/tabnet](https://mlverse.github.io/tabnet/)  
  
  - {learnr} torch tutoral
- [mlverse.shinyapps.io/torch-tour](mlverse.shinyapps.io/torch-tour)  
+ [mlverse.shinyapps.io/torch-tour](https://mlverse.shinyapps.io/torch-tour)  
  
  - torch cheatsheet  
  [torch cheatsheet](https://github.com/rstudio/cheatsheets/blob/main/torch.pdf)  
