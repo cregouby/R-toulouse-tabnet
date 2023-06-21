@@ -3,11 +3,16 @@
 
 <details><summary>French</summary>
 <p>
-Ce dépot héberge le matériel présenté lors du groupe d'utilisateurs de R-toulouse du 20 octobre 2021
+Ce dépot héberge le matériel présenté 
 
 ## La présentation
 
-[Presentation pdf](Torch_Tabnet_R_fr.pdf)
+
+Rencontres R 2023 Avignon
+[Presentation pdf](Tabnet_RR2023_fr_pdf.pdf)
+
+
+Groupe d'utilisateurs de R-toulouse du 20 octobre 21 : [Presentation pdf](Torch_Tabnet_R_fr.pdf)
 
 ## Les liens mentionnés
 
